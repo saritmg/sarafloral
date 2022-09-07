@@ -1,0 +1,6 @@
+Admin Dashboard Login
+	email=sara@gmail.com
+	password=password
+
+Webhost URL
+	https://c7193512-tmg.000webhostapp.com/saraflora/public/
